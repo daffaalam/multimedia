@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">Multimedia</string>
+
+    <string-array name="main_list_title">
+        <item>Alarm</item>
+        <item>Audio Manager</item>
+        <item>Bluetooth</item>
+        <item>Call</item>
+        <item>Email</item>
+        <item>Picture Capture</item>
+        <item>SMS (Short Message Service)</item>
+        <item>Sound Record</item>
+        <item>STT (Speech To Text)</item>
+        <item>TTS (Text To Speech)</item>
+        <item>Video Record</item>
+        <item>Wifi</item>
+    </string-array>
+
+    <string-array name="main_list_activity">
+        <item>AlarmActivity</item>
+        <item>AudioActivity</item>
+        <item>BluetoothActivity</item>
+        <item>CallActivity</item>
+        <item>EmailActivity</item>
+        <item>PictureActivity</item>
+        <item>SMSActivity</item>
+        <item>SoundActivity</item>
+        <item>STTActivity</item>
+        <item>TTSActivity</item>
+        <item>VideoActivity</item>
+        <item>WifiActivity</item>
+    </string-array>
+
+    <string-array name="audio_list">
+        <item>NORMAL</item>
+        <item>SILENT</item>
+        <item>VIBRATE</item>
+    </string-array>
+
+</resources>
